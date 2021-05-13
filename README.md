@@ -1,4 +1,4 @@
-# NetGsmSmsApi
+# C# Sms Send App - Net Gsm Api
  Netgsm Üzerinden Sms Gönderme İşlemini Kolayca Yapabilen ve 1:n , n:n Gönderimlerinizi Yapabileceğiniz C# Kütüphanesi Umarım İşinize Yarayabilir Kullanımı Çok Kolay Bir Şekilde gerçekleştirebilirsiniz.
 ## Instructions for Use 
 	1-NetGsmUserName -> Net Gsm Login Username Default Phone Number e.g:8500000000 or 2120000000
