@@ -34,5 +34,3 @@ Error code | Meaning
 `70`|Incorrect inquiry. One of the parameters you send indicates that it is incorrect or one of the required fields is missing.
 `80`|limit overrun.
 `85`|Duplicate Transmission limit overrun. More than 20 tasks cannot be created in 1 minute on the same number.
-
-I really want to thank you for your help [@mnurcakiroglu]( https://github.com/mnurcakiroglu) :heart:
